@@ -3,8 +3,9 @@
 - 👻 Alignment ... Chaotic Neutral
 - 🏹 Class ... Ranger / Mage, Wild 
 - 🌱 I’m currently learning ... Embedded Rust & NNs
-- 💞️ I’m looking to collaborate on ... whatever. 
+- 💞️ I’m looking to collaborate on ... whatever
 - 📫 How to reach me ... Protonmail.com or Mastodon.world
+- 🧠 Words to live by ... Hello! I'm your mind. Sorry I haven't been around much but I'm easily distracted by shiny objects.
 
 <!---
 PointyFluff/PointyFluff is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
